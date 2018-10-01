@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: ''
+title: 'Feeling Responsive'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'infity learning'
+slogan: 'A Flexible Theme for Jekyll'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»rKm« is an academic and personal webpage of Ram Krishna Mazumder
+description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: rKm
+author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: ''
+url: 'https://phlow.github.io'
 baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
@@ -50,6 +50,14 @@ gems:
     - jekyll-gist
     - jekyll-paginate
 
+
+#       ____              _             __  _
+#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
+#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
+#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
+#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
+#               /____/
+#
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
@@ -134,9 +142,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://scholar.google.com/citations?user=2_1BBHYAAAAJ&hl=en'
-google_site_verification:  ''
-bing_webmastertools_id:    ''
+google_author:             'https://plus.google.com/u/0/118311555303973066167'
+google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -184,8 +192,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: rkmazumder
-    facebook: rkmazumder
+    twitter: phlow
+    facebook: phlow.media
 
 
 #        ____  _
@@ -197,7 +205,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: BSA
+disqus_shortname: feelingresponsive
 
 
 #      _____
