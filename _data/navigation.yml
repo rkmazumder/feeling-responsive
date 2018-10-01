@@ -1,12 +1,12 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: CV
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Others"
   url: "/design/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Publications
   url: "/documentation/"
   side: left
   dropdown:
