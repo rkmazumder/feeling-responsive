@@ -1,15 +1,15 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/rkmazumder
   class: icon-github
   title: Code und mehr...
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/rkmazumder
   class: icon-youtube
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/rkmazumder
   class: icon-twitter
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
