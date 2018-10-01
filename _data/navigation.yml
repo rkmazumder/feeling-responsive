@@ -54,16 +54,16 @@
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Journal"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "Conference and Others"
     url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Blog History"
     url: "/blog/archive/"
 
 - title: "Search"
