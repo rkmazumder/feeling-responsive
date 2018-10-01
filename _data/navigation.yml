@@ -1,12 +1,12 @@
-- title: Home
+- title: Start
   url: "/"
   side: left
 
-- title: CV
+- title: Getting Started
   url: "/getting-started/"
   side: left
 
-- title: "More"
+- title: "Templates"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Others"
+- title: "Header Styles"
   url: "/headers/"
   side: left
   dropdown:
@@ -39,22 +39,32 @@
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
     url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"
 
-- title: Publicstions
-  url: "/Publications/"
+- title: Documentation
+  url: "/documentation/"
   side: left
   dropdown:
-  - title: "Journal"
-    url: "/Journal/"
-  - title: "Conference"
-    url: "/Conference/"
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog History"
-    url: "/blog/Blog History/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
