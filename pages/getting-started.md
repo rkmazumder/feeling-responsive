@@ -6,7 +6,7 @@ subheadline: "coming soon"
 teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/getting-started/"
+permalink: "/getting-start/"
 ---
 
 
