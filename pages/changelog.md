@@ -1,14 +1,13 @@
 ---
 layout: page
-title: "Change is good!"
-meta_title: "Feeling Responsive Theme Changelog"
-subheadline: "Feeling Responsive Theme Changelog"
-teaser: "History and changelog of Feeling Responsive Theme"
+title: "Journal Aricle is Always Nice!"
+meta_title: "Publications"
+subheadline: "Publication - Journals"
+teaser: "Peer Reviewed Journal Articles"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
 ---
-## Peer Reviewed Journal Papers
 
 * Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method", ASCE Journal of Water Resource Planning and Management (Accepted)
 
