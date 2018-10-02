@@ -2,9 +2,28 @@
   url: "/"
   side: left
 
-- title: CV
+- title: About Me
   url: "/getting-started/"
   side: left
+
+- title: "Resume"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Education"
+    url: "/design/header-full-width-image/"
+  - title: "Research"
+    url: "/design/header-image-pattern/"
+  - title: "Extra Curricular"
+    url: "/design/header-image-color/"
+  - title: "Professional Experience"
+    url: "/design/header-logo-only/"
+  - title: "Skills"
+    url: "/design/header-with-text/"
+  - title: "Awards"
+    url: "/design/no-header/"
+  - title: "Others"
+    url: "/design/no-header-but-image/"
 
 - title: "Others"
   url: "/design/"
@@ -30,25 +49,6 @@
     url: "/design/gallery/"
   - title: "Portfolio"
     url: "/design/portfolio/"
-
-- title: "Resume"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Education"
-    url: "/design/header-full-width-image/"
-  - title: "Research"
-    url: "/design/header-image-pattern/"
-  - title: "Extra Curricular"
-    url: "/design/header-image-color/"
-  - title: "Professional Experience"
-    url: "/design/header-logo-only/"
-  - title: "Skills"
-    url: "/design/header-with-text/"
-  - title: "Awards"
-    url: "/design/no-header/"
-  - title: "Others"
-    url: "/design/no-header-but-image/"
 
 - title: Publications
   url: "/documentation/"
