@@ -22,32 +22,32 @@ header:
 {% include _improve_content.html %}
 
 ## Research Interest
-`Risk and Reliability`
+   `Risk and Reliability`
 
-`Performance Based Engineering`
+   `Performance Based Engineering`
 
-`Structural Dynamics`
+   `Structural Dynamics`
 
-`Probabilistic Seismic Hazard Analysis`
+   `Probabilistic Seismic Hazard Analysis`
 
-`Risk Mitigation`
+   `Risk Mitigation`
 
 ## Employment History
-Aug 2017 - Now       |Graduate Teaching Assistant, Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
+Aug 2017 - Now       |Graduate Teaching Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
 
-Aug 2016 - Now       |Graduate Research Assistant, Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
+Aug 2016 - Now       |Graduate Research Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
 
-May 2015 - Now       |Assistant Professor, Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
+May 2015 - Now       |Assistant Professor| Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
 
-May 2013 - May 2015  |Research Lecturer, Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
+May 2013 - May 2015  |Research Lecturer| Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
 
-Oct 2010 - Dec 2011  |Research Engineer, Bangladesh University of Engineering and Technology, Bangladesh
+Oct 2010 - Dec 2011  |Research Engineer| Bangladesh University of Engineering and Technology, Bangladesh
 
-June 2010 - Sep 2010 |Project Engineer, Trust Alliance Technology Limited, Dhaka, Bangladesh
+June 2010 - Sep 2010 |Project Engineer| Trust Alliance Technology Limited, Dhaka, Bangladesh
 
-July 2009 - May 2010 |Structural Engineer, Urban Disaster Risk Management, Asian Disaster Preparedness Center, Dhaka Office, Bangladesh
+July 2009 - May 2010 |Structural Engineer| Urban Disaster Risk Management, Asian Disaster Preparedness Center, Dhaka Office, Bangladesh
 
-Aug 2008 - Jan 2009  |Research Assistant, Earthquake and Tsunami Preparedness Program, Asian Disaster Preparedness Center, Sylhet Office, Bangladesh
+Aug 2008 - Jan 2009  |Research Assistant| Earthquake and Tsunami Preparedness Program, Asian Disaster Preparedness Center, Sylhet Office, Bangladesh
 
 ## Awards/Fellowships
 
@@ -77,7 +77,7 @@ Life Fellow | Bangladesh Earthquake Society (BES) | 249
 
 ## Extra Curricular
 
-Listening to Music| Exploring History & Culture | Traveling | Volunteer
+Listening to Music, | Exploring History & Culture,  | Traveling,  | Volunteer
 
 ## Journal Reviewer
 
