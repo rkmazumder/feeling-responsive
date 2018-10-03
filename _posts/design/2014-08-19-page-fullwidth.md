@@ -1,27 +1,27 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
-subheadline:  "Multi-Device Layouts"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+title:  "Photography"
+subheadline:  "a like photos..."
+teaser: "see the photos I have taken throught this world..."
 categories:
     - design
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: beach-beautiful-dawn-40192.jpg
 ---
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
+*Feeling Responsive* photo archive.
 <!--more-->
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    <img src="{{ site.urlimg }}rkp14.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+      <img src="{{ site.urlimg }}rkp12.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+      <img src="{{ site.urlimg }}rkp8.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -29,16 +29,12 @@ header:
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
+    <img src="{{ site.urlimg }}rkp11.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
+      <img src="{{ site.urlimg }}rkp10" alt="">
       <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-
-
-
- [1]: http://foundation.zurb.com/docs/components/grid.html
