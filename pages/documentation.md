@@ -7,7 +7,18 @@ permalink: "/documentation/"
 header:
    image_fullwidth: "header-bus.jpg"
 ---
-   
+
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
+
 ## Research Interest
 * Risk and Reliability
 * Performance Based Engineering
