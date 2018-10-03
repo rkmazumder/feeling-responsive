@@ -59,11 +59,11 @@ Life Fellow | Bangladesh Earthquake Society (BES) | 249
 
 ## Languages
 
-Bengali -native | English | Hindi | Basic Italian
+Bengali -native | `English` | Hindi | `Basic Italian`
 
 ## Skills
 
-OpenSees | FEAP | SAP2000 | ArcGIS | Matlab | AutoCAD | Python
+OpenSees | `FEAP` | SAP2000 | `ArcGIS` | Matlab | MS Office | `Python`
 
 ## Extra Curricular
 
