@@ -40,12 +40,13 @@ header:
 * Research Assistant, Earthquake and Tsunami Preparedness Program, Asian Disaster Preparedness Center, Sylhet Office, Bangladesh, August 2008 - January 2009.
 
 ## Awards/Fellowships
- 2018| the 'Roy Harley Prize'for promising graduate in Civil Engineering at Case Western Reserve University | USA
- 2016| Graduate Research Assistantship for Doctoral Study at Case Western Reserve University | USA
- 2015| GFZ Grant for participate International Training Course on Seismic Hazard, Risk and Mitigation at GFZ Potsdam | Germany
- 2014| Wilsdorf Foundation and the “Bureau de la Solidarité Internationale” grant at University of Geneva | Switzerland
- 2012| Eurasian University Network for International Co-operation in Earthquake Fellowship | Italy
- 2011| SAARC Disaster Management Center Fellowship | India
+
+2018  | the Roy Harley Prize for promising graduate in Civil Engineering at Case Western Reserve University | USA
+2016  | Graduate Research Assistantship for Doctoral Study at Case Western Reserve University | USA
+2015  | GFZ Grant for participate International Training Course on Seismic Hazard, Risk and Mitigation at GFZ Potsdam | Germany
+2014  | Wilsdorf Foundation and the “Bureau de la Solidarité Internationale” grant at University of Geneva | Switzerland
+2012  | Eurasian University Network for International Co-operation in Earthquake Fellowship | Italy
+2011  | SAARC Disaster Management Center Fellowship | India
 
 ## Membership
 
