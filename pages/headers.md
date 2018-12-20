@@ -32,15 +32,10 @@ header:
 ## Employment History
 
 Since 2016  |Research & Teaching Assistant| Case Western Reserve University | Cleveland Ohio
-
 Since 2015 |Assistant Professor| Chittagong University of Engineering and Technology | Bangladesh
-
 2013 - 2015 |Research Lecturer| Chittagong University of Engineering and Technology | Bangladesh
-
 2010 - 2011  |Research Engineer| Bangladesh University of Engineering and Technology | Dhaka Bangladesh
-
-June - Sep 2010 |Project Engineer| Trust Alliance Technology Limited| Dhaka Bangladesh
-
+June - Sep 2010 |Project Engineer| Trust Alliance Technology Limited | Dhaka Bangladesh
 2009 - 2010 |Structural Engineer | Asian Disaster Preparedness Center Dhaka Office | Dhaka Bangladesh
 
 
