@@ -12,6 +12,15 @@ header:
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## Peer Reviewed Journal Papers
 
 * Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2019) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method", ASCE Journal of Water Resource Planning and Management [Download](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001034)
@@ -34,7 +43,7 @@ header:
 
 * Mazumder, R. K and Ahmed, M (2010), Vulnerability Assessment of Reinforced Concrete Frame Buildings due to Earthquake in Sylhet City, Journal of Environmental Science and Natural Resources, Vol. 3, No. 2, 81-84.
 
-## International Conference Papers
+## Conference Papers
 
 * Mazumder, R.K., Salman, A.M., Li, Y., & Yu, X. (2019) A Decision-making Framework for Water Distribution Systems using Fuzzy Inference and Centrality Analysis International Conference on Applications of Statistics and Probability in Civil Engineering, May 26-30, Seoul, Korea. (Accepted)
 
