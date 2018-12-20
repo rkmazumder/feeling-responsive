@@ -22,12 +22,15 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Research Interest
-   
-   |`Resilient and sustainable civil infrastructure systems`|
-   |`Risk-informed decision making of civil infrastructure`|
-   |`Natural hazard risk assessment and management`|
-   |`Performance based analysis and design of structures`|
-   |`Seismic risk assessment of buildings and infrastructures`|
+`Resilient and sustainable civil infrastructure systems`
+
+`Risk-informed decision making of civil infrastructure`
+
+`Natural hazard risk assessment and management`
+
+`Performance based analysis and design of structures`
+
+`Seismic risk assessment of buildings and infrastructures`
 
 ## Professional Appointments
 
