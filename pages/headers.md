@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title: "CV"
-subheadline: ""
-teaser: "latest update on December 2018"
+subheadline: "How to use Feeling Responsive"
+teaser: "The documentation is a work in progress..."
 permalink: "/headers/"
    image_fullwidth: "header_unsplash_5.jpg"
 ---
