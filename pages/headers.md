@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
-title: "CV"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+title: "Curricula Vitae"
+subheadline: "Ram Krishna Mazumder"
+teaser: "These are your options to style the header of each webpage individually. <em>Feeling Responsive</em> uses <a href='http://srobbin.com/jquery-plugins/backstretch/'>Backstretch by Scott Robin</a> to expand them from left to right. The width should be 1600 pixel or higher using a ratio like 16:9 or 21:9 or 2:1."
+
 permalink: "/headers/"
-   image_fullwidth: "header_unsplash_5.jpg"
+header:
+   image_fullwidth: "header-bus.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
