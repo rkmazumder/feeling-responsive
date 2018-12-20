@@ -1,9 +1,8 @@
 ---
 layout: page-fullwidth
 title: "CV"
-subheadline: "Ram Krishna Mazumder"
-teaser: "latest update on December 2018"
 subheadline: ""
+teaser: "latest update on December 2018"
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/headers/"
 ---
