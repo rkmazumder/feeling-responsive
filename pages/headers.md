@@ -7,11 +7,7 @@ teaser: "These are your options"
 permalink: "/headers/"
 header:
    image_fullwidth: "header-bus.jpg"
----
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-   
+---   
 **Table of Contents**
 {: #toc }
 *  TOC
@@ -74,10 +70,3 @@ Listening to Music, | Exploring History & Culture,  | Traveling,  | Volunteer
 * ASCE Journal of `Water Resource Planning and Management`
 * ASTM Journal of `Testing and Evaluation`
 * Geotechnical Engineering Journal of the `SEAGS & AGSSEA`
-
-
-<ul>
-    {% for post in site.tags.header %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
