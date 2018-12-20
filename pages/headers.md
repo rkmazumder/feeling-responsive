@@ -21,7 +21,8 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-### Research Interest
+## Research Interest
+   
    `Resilient and sustainable civil infrastructure systems`
    `Risk-informed decision making of civil infrastructure`
    `Natural hazard risk assessment and management`
@@ -29,6 +30,7 @@ header:
    `Seismic risk assessment of buildings and infrastructures`
 
 ## Employment History
+
 Aug 2017 - Now       |Graduate Teaching Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
 
 Aug 2016 - Now       |Graduate Research Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
@@ -46,6 +48,7 @@ July 2009 - May 2010 |Structural Engineer| Urban Disaster Risk Management, Asian
 Aug 2008 - Jan 2009  |Research Assistant| Earthquake and Tsunami Preparedness Program, Asian Disaster Preparedness Center, Sylhet Office, Bangladesh
 
 ## Awards/Fellowships
+
 2018  | the Roy Harley Prize for promising graduate in Civil Engineering at Case Western Reserve University | USA
 2016  | Graduate Research Assistantship for Doctoral Study at Case Western Reserve University | USA
 2015  | GFZ Grant for participate International Training Course on Seismic Hazard, Risk and Mitigation at GFZ Potsdam | Germany
