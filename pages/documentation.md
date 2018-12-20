@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Curricula Vitae"
-subheadline: "Ram Krishna Mazumder"
-teaser: "These are your options to style the header of each webpage individually. <em>Feeling Responsive</em> uses <a href='http://srobbin.com/jquery-plugins/backstretch/'>Backstretch by Scott Robin</a> to expand them from left to right. The width should be 1600 pixel or higher using a ratio like 16:9 or 21:9 or 2:1."
+title: "Publications"
+subheadline:
+teaser:
 
 permalink: "/documentation/"
 header:
@@ -20,69 +20,60 @@ header:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
 
-## Research Interest
-   `Risk and Reliability`
+## Peer Reviewed Journal Papers
 
-   `Performance Based Engineering`
+* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2019) “Reliability Analysis of Water Distribution Systems using Physical Probabilistic Pipe Failure Method", ASCE Journal of Water Resource Planning and Management [Download](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001034)
 
-   `Structural Dynamics`
+* Mazumder, R. K., Salman, A., Li, Y., and Yu, X. (2018) “State-of- the-Art Review: Peformance Evaluation of Water Distribution Systems and Asset Management,” ASCE Journal of Infrastructure Systems [Download](https://ascelibrary.org/doi/abs/10.1061/(ASCE)IS.1943-555X.0000426)
 
-   `Probabilistic Seismic Hazard Analysis`
+* Mazumder, R. K. & Salman, A. M. (2018) Seismic Damage Assessment Using GIS and RADIUS: A Case Study of Sylhet City, Bangladesh, International Journal of Disaster Risk Reduction [Download](https://doi.org/10.1016/j.ijdrr.2018.11.023)
 
-   `Risk Mitigation`
+* Mazumder, R. K., Utsob, M. T. U., and Bhuiyan, A. R. (2018), Seismic Vulnerability Assessment of Medical Facilities: A GIS Based Application for Chittagong, Bangladesh, Malaysian Journal of Civil Engineering, 30(1):97-112 [Download](https://mjce.utm.my/index.php/MJCE/article/view/170)
 
-## Employment History
-Aug 2017 - Now       |Graduate Teaching Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
+* Mazumder, R. K., Uddin, S., Dey, R. and Ansary, M. A. (2016), Analytical Fragility Curves for Reinforced Concrete Building Using Single Point Scaled Spectrum Matched Ground Motion Analyses, Malaysian Journal of Civil Engineering 28(3):394-406 [Download](https://mjce.utm.my/index.php/MJCE/article/view/433)
 
-Aug 2016 - Now       |Graduate Research Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
+* Dey, R., Mazumder, R. K.  and Bhuiyan, A. R. (2016), Analytical fragility curves from capacity spectrum: A case study for reinforced concrete frame building with unreinforced masonry infill walls, Journal of Civil Engineering (Institute of Engineers Bangladesh  44 (2) (2016) 101-109 [Download](http://www.jce-ieb.org/doc_file/4402004.pdf)
 
-May 2015 - Now       |Assistant Professor| Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
+* Mazumder, R. K. and Ansary, M. A. (2014), Application of Capacity Spectrum Method based on ATC 40 and BNBC 1993, International Journal of Advanced Structures and Geotechnical Engineering, Vol. 03, No. 04 [Download](http://basharesearch.com/1030411.html)
 
-May 2013 - May 2015  |Research Lecturer| Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
+* Mazumder, R. K., Khair, A.,Sakib, N., Bhuiyan, A. R. and Alam, J. (2014) Rapid Assessment Procedure for Seismic Evaluation of Existing Buildings: A Case Study for CUET Campus, Journal of South Asian Disaster Studies, Vol. 06, 2012.
 
-Oct 2010 - Dec 2011  |Research Engineer| Bangladesh University of Engineering and Technology, Bangladesh
+* Chowdhury, M. A. I., Mazumder, R. K., Islam, M. O. and Paul, S. (2011), Optimization of Pure Water by Reusing Domestic Water for Urban Multi-Storied Buildings, Journal of Environmental Research and Development, Vol. 6 No. 2, 295-302.
 
-June 2010 - Sep 2010 |Project Engineer| Trust Alliance Technology Limited, Dhaka, Bangladesh
+* Mazumder, R. K and Ahmed, M (2010), Vulnerability Assessment of Reinforced Concrete Frame Buildings due to Earthquake in Sylhet City, Journal of Environmental Science and Natural Resources, Vol. 3, No. 2, 81-84.
 
-July 2009 - May 2010 |Structural Engineer| Urban Disaster Risk Management, Asian Disaster Preparedness Center, Dhaka Office, Bangladesh
+## International Conference Papers
 
-Aug 2008 - Jan 2009  |Research Assistant| Earthquake and Tsunami Preparedness Program, Asian Disaster Preparedness Center, Sylhet Office, Bangladesh
+* Mazumder, R.K., Salman, A.M., Li, Y., & Yu, X. (2019) A Decision-making Framework for Water Distribution Systems using Fuzzy Inference and Centrality Analysis International Conference on Applications of Statistics and Probability in Civil Engineering, May 26-30, Seoul, Korea. (Accepted)
 
-## Awards/Fellowships
+* Mazumder, R.K., Salman, A.M., Li, Y., & Yu, X. (2019) Reliability Assessment of Corroded Water Distribution Infrastructure, ASCE Pipeline 2019, July 21-24, Nashville, TN. (Accepted)
 
-2018  | the Roy Harley Prize for promising graduate in Civil Engineering at Case Western Reserve University | USA
-2016  | Graduate Research Assistantship for Doctoral Study at Case Western Reserve University | USA
-2015  | GFZ Grant for participate International Training Course on Seismic Hazard, Risk and Mitigation at GFZ Potsdam | Germany
-2014  | Wilsdorf Foundation and the “Bureau de la Solidarité Internationale” grant at University of Geneva | Switzerland
-2012  | Eurasian University Network for International Co-operation in Earthquake Fellowship | Italy
-2011  | SAARC Disaster Management Center Fellowship | India
+* Mazumder, R. K., Biswas, B.S.P., Helali, A. L. and Ansary, M. A. (2017), Ambient Vibration Analysis of Heritage Unreinforced Masonry Buildings in Bangladesh, 16th World Conference on Earthquake Engineering (16WCEE), Santiago Chile, January 9-13, Paper N° 4176
 
-## Membership
+* Dey, R., Mazumder, R. K. and Bhuiyan, A. R. (2015), Generation of Analytical Fragility Curves from Capacity Spectrum: A Case Study of Reinforced Concrete Frame Building with URM infill walls, National Conference on Earthquake and Environmental Disaster, Dec 17, CUET, Chittagong, Bangladesh, P 037
 
-E- Affiliate | Earthquake Engineering Research Institute (EERI) | 15337
-Member     | American Society of Civil Engineers |10949854
-Member     | International Association of Life Cycle Civil Engineering
-Member     | Institute of Engineers Bangladesh (IEB) | M-27463
-Member     | Bangladesh Society for Geotechnical Engineering (BSGE) | 2012-001
-Life Fellow | Bangladesh Earthquake Society (BES) | 249
+* Mazumder, R. K., Dey, R., Uddin, S. and Bhuiyan, A. R. (2015), Structural Response Analysis of Reinforced Concrete Frame with Unreinforced Masonry Infill Walls, Int. Conference on Recent Innovation in Civil Engineering for Sustainable Development, Dec 11-13, DUET, Dhaka, Bangladesh 564-569.
 
-## Languages
+* Mazumder, R. K., Tohfa T. S., Rahman, M. A. R., Alam M. J. and Ansary, M. A. (2013), Capacity Spectrum Demand Analysis Based on Proposed Bangladesh National Building Code, Proc. of International Conference on Innovations in Engineering and Technology (ICIET'2013) Dec. 25-26, 2013 Bangkok, Thailand.
 
-`Bengali -native`  `English` `Hindi`  `Basic Italian`
+* Mazumder, R. K. and Ansary, M. A. (2012), Application of Non-Destructive Testing Techniques for Structural Condition Assessment in Bangladesh, Proc. of 1st Int. Conference on Advances in Civil Engineering (ICACE), 12-14 December, CUET, Chittagong, Bangladesh, ASEE 25.
 
-## Skills
+* Mazumder, R. K. and Ansary, M. A. (2012), Structural Condition Assessment Considering Seismic Aspects: A Study on Old Unreinforced Masonry, Proc. of 15th World Conference of Earthquake Engineering (15WCEE), September, 24-28, Lisbon, Portugal, P-3476.
 
-`OpenSees`  `FEAP`  `SAP2000`  `ArcGIS`  `Matlab` `MS Office` `Python`
+* Mazumder, R. K., Murad, E. M. and Ansary, M. A. (2012), Evaluation of Liquefaction Potential Using Cone Penetration Test, Proc. of the 1st Int. Conference on Civil Engineering for Sustainable Development (ICCESD), 2-3 March, KUET, Khulna, Bangladesh, P-181.
 
-## Extra Curricular
+* Mazumder, R. K., Ahmed, M. and Ansary, M. A. (2011), Seismic Risk Evaluation on Existing RC Frame Buildings for Northern Part of Sylhet City, Bangladesh, Proc. of 10th Int. Symposium on New Technologies for Urban Safety of Mega Cities in Asia, October 12-14, Chiang Mai, Thailand, 173-186.
 
-Listening to Music, | Exploring History & Culture,  | Traveling,  | Volunteer
+* Mazumder, R. K. and Ansary, M. A. (2011), Geophysical Investigation at Meghna Dhonagoda Irrigation Project (MDIP) Using Ground Penetrating Radar Method, Proc. of 10th Int. Symposium on New Technologies for Urban Safety of Mega Cities in Asia, October 12-14, Chiang Mai, Thailand, 213-224.
 
-## Journal Reviewer
+* Mazumder, R. K. and Ansary, M. A. (2011), Characteristics of Microtremor for a 110 MW Power Plant in South Western Region of Bangladesh, Proc. of the Int. Conference on Environmental Technology & Construction Engineering for Sustainable Development, March 10-12, SUST, Sylhet, Bangladesh, 747-755.
 
-* ASCE Journal of `Infrastructure System`
-* ASCE Journal of `Water Resource Planning and Management`
-* ASTM Journal of Testing and Evaluation
-* Geotechnical Engineering Journal of the `SEAGS & AGSSEA`
+* Mazumder, R. K. and Hossain, M. S. (2011), Risk Assessment of Masonry Buildings in Heritage Area: A Case Study for the Older Part of Dhaka City, 2nd Proc. of the Conference on Engineering Research, Innovation and Education, 11-13 January, SUST, Sylhet, Bangladesh, 193-199.
+
+* Mazumder, R. K., Ahmed, M. and Raju, M. R. (2011), Seismic Risk Analysis for The Schools of Sylhet City, Bangladesh, 2nd Proc. of the Conference on Engineering Research, Innovation and Education, 11-13 January, SUST, Sylhet, Bangladesh, 200-205
+
+## Newsletter/Seminar Papers 
+* Islam, M. S, Alam, M. N, Mashfiq, K and Mazumder, R. K (2010), “Structural Assessment of Heritage and Non Heritage Buildings in Old Dhaka”, Asian Disaster Management News, January – April 2010 Vol. 16, No.1, 18-19.
+
+* Mazumder, R. K and Ansary M. A (2010), “Seismic Vulnerability Assessment of Educational Buildings in Old Dhaka”, International Center for Urban Safety Engineering (ICUS) Report 2010-09, 119-149.
