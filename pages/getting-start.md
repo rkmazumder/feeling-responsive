@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "About Me"
+title: "About"
 subheadline: ""
 teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
@@ -22,6 +22,7 @@ Institute of Earthquake Engineering Research,
 Chittagong University of Engineering and Technology,
 Chittagong 4349, Bangladesh
 
+Vice-President, Graduate Student Council, Case Western Reserve University
 President, South Asian Chapter, Erasmus Mundus Students and Alumni Association
 
 ## Tweets
