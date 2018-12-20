@@ -23,17 +23,17 @@ header:
 
 ## Research Interest
    
-   `Resilient and sustainable civil infrastructure systems`
-   `Risk-informed decision making of civil infrastructure`
-   `Natural hazard risk assessment and management`
-   `Performance based analysis and design of structures`
-   `Seismic risk assessment of buildings and infrastructures`
+   |`Resilient and sustainable civil infrastructure systems`|
+   |`Risk-informed decision making of civil infrastructure`|
+   |`Natural hazard risk assessment and management`|
+   |`Performance based analysis and design of structures`|
+   |`Seismic risk assessment of buildings and infrastructures`|
 
-## Employment History
+## Professional Appointments
 
 Since 2016  |Research & Teaching Assistant| Case Western Reserve University | Cleveland Ohio
-Since 2015 |Assistant Professor| Chittagong University of Engineering and Technology | Bangladesh
-2013 - 2015 |Research Lecturer| Chittagong University of Engineering and Technology | Bangladesh
+Since 2015 |Assistant Professor| Chittagong University of Engineering and Technology | Chittagong Bangladesh
+2013 - 2015 |Research Lecturer| Chittagong University of Engineering and Technology | Chittagong Bangladesh
 2010 - 2011  |Research Engineer| Bangladesh University of Engineering and Technology | Dhaka Bangladesh
 June - Sep 2010 |Project Engineer| Trust Alliance Technology Limited | Dhaka Bangladesh
 2009 - 2010 |Structural Engineer | Asian Disaster Preparedness Center Dhaka Office | Dhaka Bangladesh
@@ -65,9 +65,7 @@ Life Fellow | Bangladesh Earthquake Society (BES) | 249
 
 `OpenSees`  `FEAP`  `SAP2000`  `ArcGIS`  `Matlab` `MS Office` `Python`
 
-## Extra Curricular
 
-Listening to Music, | Exploring History & Culture,  | Traveling,  | Volunteer
 
 ## Journal Reviewer
 
@@ -77,5 +75,4 @@ Listening to Music, | Exploring History & Culture,  | Traveling,  | Volunteer
 * Geotechnical Engineering Journal of the `SEAGS & AGSSEA`
 
 <ul>
-
 </ul>
