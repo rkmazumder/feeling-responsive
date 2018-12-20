@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Curricula Vitae"
 subheadline: "Ram Krishna Mazumder"
-teaser: "These are your options"
+teaser: 
 
 permalink: "/headers/"
 header:
@@ -31,21 +31,18 @@ header:
 
 ## Employment History
 
-Aug 2017 - Now       |Graduate Teaching Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
+Since 2016  |Research & Teaching Assistant| Case Western Reserve University | Cleveland Ohio
 
-Aug 2016 - Now       |Graduate Research Assistant| Dept. of Civil Engineering, Case Western Reserve University, Cleveland, Ohio
+Since 2015 |Assistant Professor| Chittagong University of Engineering and Technology | Bangladesh
 
-May 2015 - Now       |Assistant Professor| Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
+2013 - 2015 |Research Lecturer| Chittagong University of Engineering and Technology | Bangladesh
 
-May 2013 - May 2015  |Research Lecturer| Institute of Earthquake Engineering Research, Chittagong University of Engineering and Technology, Bangladesh
+2010 - 2011  |Research Engineer| Bangladesh University of Engineering and Technology | Dhaka Bangladesh
 
-Oct 2010 - Dec 2011  |Research Engineer| Bangladesh University of Engineering and Technology, Bangladesh
+June - Sep 2010 |Project Engineer| Trust Alliance Technology Limited| Dhaka Bangladesh
 
-June 2010 - Sep 2010 |Project Engineer| Trust Alliance Technology Limited, Dhaka, Bangladesh
+2009 - 2010 |Structural Engineer | Asian Disaster Preparedness Center Dhaka Office | Dhaka Bangladesh
 
-July 2009 - May 2010 |Structural Engineer| Urban Disaster Risk Management, Asian Disaster Preparedness Center, Dhaka Office, Bangladesh
-
-Aug 2008 - Jan 2009  |Research Assistant| Earthquake and Tsunami Preparedness Program, Asian Disaster Preparedness Center, Sylhet Office, Bangladesh
 
 ## Awards/Fellowships
 
