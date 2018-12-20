@@ -5,7 +5,7 @@ title: "About Ram K Mazumder"
 subheadline: ""
 teaser: "."
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "rkp13.jpg"
 permalink: "/getting-started/"
 ---
 ## Current Affiliation
