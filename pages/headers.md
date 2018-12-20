@@ -3,8 +3,8 @@ layout: page-fullwidth
 title: "CV"
 subheadline: ""
 teaser: "latest update on December 2018"
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/headers/"
+   image_fullwidth: "header_unsplash_5.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
